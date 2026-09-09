@@ -123,6 +123,15 @@ print(f"p-valor: {p_valor:.4f}")
 print("Interpretación: r cercano a 1 indica una relación lineal positiva fuerte.")
 print("Recuerda (1.3.6): correlación fuerte NO implica causalidad.")
 
+# Resumen:
+
+print("\n" + "=" * 60)
+print("RESUMEN DE CIFRAS CLAVE PARA EL BRIEFING")
+print("=" * 60)
+print(f"Decil 3 / Decil 7 (1951-1980): {decil_3:.2f} / {decil_7:.2f}")
+print(f"% años calientes en 1981-2010: {pct_calientes:.1f}%")
+print(f"Correlación CO2-temperatura: r = {r:.3f} (p = {p_valor:.4f})")
+print("Varianzas por estación: ver tabla_pivot_varianza arriba")
 
 
 
