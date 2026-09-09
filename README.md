@@ -4,7 +4,10 @@ Repositorio del equipo consultor para el análisis de temperatura, eventos extre
 
 Integrantes: 
 Santiago Martínez: Líder del proyecto 
+
 Santiago Gómez: Especialista en datos 
+
 Sara Rodríguez: Analista cuantitativa 
+
 Emily Rodríguez: Especialista en visualización y comunicación
 
